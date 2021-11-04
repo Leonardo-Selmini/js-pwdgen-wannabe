@@ -1,0 +1,30 @@
+/* commons */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color:rgb(28, 28, 30)
+}
+
+body {
+  background-color: rgb(44, 44, 46);
+}
+
+main {
+  width: 80%;
+  margin: 100px auto;
+  background-color: rgb(229, 229, 234);
+  padding: 50px;
+  border-radius: 30px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+p {
+  font-size: 30px;
+}
